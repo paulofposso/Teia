@@ -1,0 +1,12 @@
+C:\Users\Paulo\WebAPI2\teia\out\teia.exe
+C:\Users\Paulo\WebAPI2\teia\out\appsettings.Development.json
+C:\Users\Paulo\WebAPI2\teia\out\appsettings.json
+C:\Users\Paulo\WebAPI2\teia\out\teia.dll
+C:\Users\Paulo\WebAPI2\teia\out\teia.deps.json
+C:\Users\Paulo\WebAPI2\teia\out\teia.runtimeconfig.json
+C:\Users\Paulo\WebAPI2\teia\out\teia.pdb
+C:\Users\Paulo\WebAPI2\teia\out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Paulo\WebAPI2\teia\out\Microsoft.OpenApi.dll
+C:\Users\Paulo\WebAPI2\teia\out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Paulo\WebAPI2\teia\out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Paulo\WebAPI2\teia\out\Swashbuckle.AspNetCore.SwaggerUI.dll
